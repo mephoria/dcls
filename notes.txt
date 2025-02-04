@@ -1,0 +1,4 @@
+Character Recognition Tool:
+Tesseract OCR is a free open source alternative that might tackle this problem.
+
+The tool is written in C++ so it'll be fast af
